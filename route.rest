@@ -1,0 +1,32 @@
+GET http://localhost:3000/subscribers
+
+###
+
+GET http://localhost:3000/subscribers/6031defe6bb92f10f8ad3dd5
+
+###
+
+POST http://localhost:3000/subscribers
+Content-Type: application/json
+
+{
+  "name": "Amazing Person",
+  "subscribedToChannel": "Web Dev Simplified"
+}
+
+###
+
+DELETE http://localhost:3000/subscribers/6031dc031fc256077c2cb2b2
+###
+
+PATCH  http://localhost:3000/subscribers/6031defe6bb92f10f8ad3dd5
+Content-Type: application/json
+
+{
+  "name": "New Name",
+  "subscribedToChannel": "CGP Grey"
+}
+
+###
+
+GET http://localhost:3000/api/workouts
