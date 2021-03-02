@@ -38,4 +38,4 @@ This would not have been possible without the help of my tutor Kumar Ramanathan,
 
 ## Questions
 
-If you have any questions about the app, open an issue or contact me through the contact form on my portfolio website: https://priteshpatel823.github.io/Portfolio/. You can find more of my work at [Pritesh Patel](github.com/priteshpatel823).
+If you have any questions about the app, open an issue or contact me through the contact form on my portfolio website: https://priteshpatel823.github.io/. You can find more of my work at [Pritesh Patel](https://github.com/priteshpatel823/fitness-tracker).

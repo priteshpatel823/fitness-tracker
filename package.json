@@ -22,12 +22,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/priteshpatel823/FitnessTracker.git"
+    "url": "git+https://github.com/priteshpatel823/fitness-tracker.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/priteshpatel823/FitnessTracker/issues"
+    "url": "https://github.com/priteshpatel823/fitness-tracker/issues"
   },
-  "homepage": "https://github.com/priteshpatel823/FitnessTracker#readme"
+  "homepage": "https://github.com/priteshpatel823/fitness-tracker#readme"
 }
